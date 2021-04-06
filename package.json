@@ -1,6 +1,6 @@
 {
-  "name": "newgreetinggs",
-  "version": "1.0.0",
+  "name": "newgreeetinggs",
+  "version": "1.9.8",
   "description": "Can log \\\"hello world\\\" and \\\"goodbye world\\\" to the console!",
   "main": "index.js",
   "scripts": {

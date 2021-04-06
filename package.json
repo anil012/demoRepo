@@ -1,0 +1,26 @@
+{
+  "name": "demorepo",
+  "version": "1.0.0",
+  "description": "Can log \\\"hello world\\\" and \\\"goodbye world\\\" to the console!",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anil012/demoRepo.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Anil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anil012/demoRepo/issues"
+  },
+  "homepage": "https://github.com/anil012/demoRepo#readme",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
+}
